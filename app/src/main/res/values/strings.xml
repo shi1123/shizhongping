@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shizhongping</string>
+    <string name="introduct_thinkpad">ThinkPad，中文名为“思考本”，在2005年以前是IBM PC事业部旗下的便携式计算机品牌，凭借坚固和可靠的特性在业界享有很高声誉。在联想（Lenovo）收购IBM PC事业部之后，ThinkPad商标为联想所有。ThinkPad自问世以来一直保持着黑色的经典外观并对技术有着自己独到的见解，如：TrackPoint（指点杆，俗称小红帽）、ThinkLight键盘灯、全尺寸键盘和APS（Active Protection System，主动保护系统）。</string>
+    <string name="introduce_brand">“ThinkPad”这个名称的灵感来自IBM的便笺簿。每一位IBM的雇员或到IBM训练中心受训的人，都会拿到一本便笺簿（“便笺簿”英文为“pad”），上面印着企业的座右铭“THINK”。在一次讨论便携式电脑产品名称的会议上，一名与会者随手将一本这样的便笺簿甩到半空然后落在了会议桌上，另一名与会者受此启发提出可以用“ThinkPad”这个名称。起初IBM高层一度反对使用这个名称，因为以前IBM一直使用数字为标识产品型号。但是“ThinkPad”这个名称受到广大雇员和客户的极大欢迎和喜爱，最终IBM高层妥协同意使用“ThinkPad”作为产品名称。</string>
+</resources>
