@@ -1,4 +1,4 @@
-package cn.studyjames.s1.sj35.shizhongping;
+package cn.studyjams.s1.sj35.shizhongping;
 
 import android.content.Intent;
 import android.net.Uri;
